@@ -14,7 +14,7 @@ I am a passionate Software Developer / Engineer with experience in React, Next.j
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish4693&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
 </div>
 
-![Stats Animation](https://media.giphy.com/media/1k1aTQLWplGXx9vlKT/giphy.gif)
+![Stats Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhnMm1rOTZsc3lxNXo0dGh2d2lraDRkNThna2loeGMyNHhncGV3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y34VPqGjuMbx00Fxc9/giphy.webp)
 
 ## 🚀 Technologies & Tools
 
@@ -46,10 +46,10 @@ I'm currently exploring more about serverless architectures and improving my ski
 
 ## 🎉 Fun Facts
 
-- I love playing video games and am a big fan of RPGs.
+- I love playing video games and am a big fan of FPSs.
 - I'm a coffee enthusiast and enjoy trying out new blends.
 
-![Fun Facts](https://media.giphy.com/media/l3vR6asdeT8DCd0rm/giphy.gif)
+![Fun Facts](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWt5amR0bDhwN3FhcWtyb2tqNWliY3A1cTltZHI4b2kzdmExdWU4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S6TqDjp87DgYeFKZLc/giphy.webp)
 
 ## 💬 Let's Chat
 
