@@ -15,7 +15,7 @@ I am a passionate Software Developer / Engineer with experience in React, Next.j
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish4693&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
 </div>
 
-![Stats Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhnMm1rOTZsc3lxNXo0dGh2d2lraDRkNThna2loeGMyNHhncGV3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y34VPqGjuMbx00Fxc9/giphy.webp)
+
 
 ## 🚀 Technologies & Tools
 
