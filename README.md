@@ -1,4 +1,4 @@
-# Hi there, I'm Krishnanand 👋
+#[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,+I+am+Krishnanand👋)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krish4693&color=green)
 [![GitHub followers](https://img.shields.io/github/followers/krish4693?style=social)](https://github.com/krish4693?tab=followers)
