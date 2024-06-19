@@ -1,4 +1,5 @@
-#[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,+I+am+Krishnanand👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&center=true&random=false&width=500&height=90&lines=Hi%2C+I+am+Krishnanand%F0%9F%91%8B)](https://git.io/typing-svg)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krish4693&color=green)
 [![GitHub followers](https://img.shields.io/github/followers/krish4693?style=social)](https://github.com/krish4693?tab=followers)
