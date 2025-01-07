@@ -46,7 +46,6 @@ I am a passionate Software Developer / Engineer with experience in React, Next.j
 - Twitter: [Click Here](https://x.com/Krish_4693)
 - Email: [krishnanandunnikrishnan@gmail.com](mailto:krishnanandunnikrishnan@gmail.com)
 
-![Contact](https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif)
 
 ## 🌱 Currently Learning
 
