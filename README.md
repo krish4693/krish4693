@@ -1,3 +1,5 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&center=true&random=false&width=500&height=90&lines=Hi%2C+I+am+Krishnanand%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
@@ -65,3 +67,4 @@ I'm currently exploring more about serverless architectures and improving my ski
 Feel free to reach out if you have any questions or just want to connect. I'm always open to new opportunities and collaborations!
 
 ![Chat](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
+</div>
