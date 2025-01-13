@@ -44,9 +44,9 @@ I am a passionate Software Developer / Engineer with experience in React, Next.j
 
 ## 📬 Get in Touch
 
-- LinkedIn: [Click here](https://www.linkedin.com/in/yourlinkedin)
-- Twitter: [Click Here](https://x.com/Krish_4693)
-- Email: [krishnanandunnikrishnan@gmail.com](mailto:krishnanandunnikrishnan@gmail.com)
+LinkedIn: [Click here](https://www.linkedin.com/in/yourlinkedin)
+Twitter: [Click Here](https://x.com/Krish_4693)
+Email: [krishnanandunnikrishnan@gmail.com](mailto:krishnanandunnikrishnan@gmail.com)
 
 
 ## 🌱 Currently Learning
@@ -57,8 +57,8 @@ I'm currently exploring more about serverless architectures and improving my ski
 
 ## 🎉 Fun Facts
 
-- I love playing video games and am a big fan of FPSs.
-- I'm a coffee enthusiast and enjoy trying out new blends.
+I love playing video games and am a big fan of FPSs.
+I'm a coffee enthusiast and enjoy trying out new blends.
 
 ![Fun Facts](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWt5amR0bDhwN3FhcWtyb2tqNWliY3A1cTltZHI4b2kzdmExdWU4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S6TqDjp87DgYeFKZLc/giphy.webp)
 
